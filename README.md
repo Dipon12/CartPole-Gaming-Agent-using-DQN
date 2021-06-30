@@ -18,4 +18,3 @@ This is the simplest possible environment available in the OpenAI Gym library
 
  for details about the environment:- https://gym.openai.com/envs/CartPole-v0/
  
- # CartPole-Gaming-Agent-using-DQN

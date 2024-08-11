@@ -1,6 +1,8 @@
 # CartPole Gaming Agent using DQN
 The project aims to create a reinforcement learning agent capable of mastering the CartPole game using the Deep Q-Network (DQN) algorithm.
 
+<div align="center"><img src="https://github.com/user-attachments/assets/1e7eb842-f078-4dc2-a596-c3de96803724"></div>
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -8,8 +10,6 @@ The project aims to create a reinforcement learning agent capable of mastering t
 - [Usage](#usage)
 - [Results](#results)
 - [Files](#files)
-- [Contributing](#contributing)
-- [License](#license)
 
 # Overview
 
